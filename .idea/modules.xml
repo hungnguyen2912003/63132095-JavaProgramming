@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/out/production/63132095-JavaProgramming/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/out/production/63132095-JavaProgramming/HelloWorld/HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/out/production/63132095-JavaProgramming/LAB1/LAB1.iml" filepath="$PROJECT_DIR$/out/production/63132095-JavaProgramming/LAB1/LAB1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/out/production/63132095-JavaProgramming/LAB2/LAB2.iml" filepath="$PROJECT_DIR$/out/production/63132095-JavaProgramming/LAB2/LAB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/63132095-JavaProgramming.iml" filepath="$PROJECT_DIR$/.idea/63132095-JavaProgramming.iml" />
     </modules>
   </component>
 </project>

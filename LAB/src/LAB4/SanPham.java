@@ -3,9 +3,9 @@ package LAB4;
 import java.util.Scanner;
 
 public class SanPham{
-	public String tenSp;
-	public double donGia;
-	public double giamGia;
+	private String tenSp;
+	private double donGia;
+	private double giamGia;
 
 	public String getTenSp() {
 		return tenSp;

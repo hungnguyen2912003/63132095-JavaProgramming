@@ -32,6 +32,6 @@ public class Lab5_Bai1 {
         {
             sum += n;
         }
-        System.out.printf("\nTong các so thuc: " + sum);
+        System.out.printf("\nTổng các số thực: " + sum);
     }
 }

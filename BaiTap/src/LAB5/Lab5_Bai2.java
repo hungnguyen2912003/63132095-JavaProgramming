@@ -5,13 +5,12 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class Lab5_Bai2 {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         ArrayList<String> ls = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
-        while (true) {
+        while (true){
             int choose = menu();
-
-            switch (choose) {
+            switch (choose){
                 case 1:
                     nhap(ls, scanner);
                     break;
@@ -37,7 +36,7 @@ public class Lab5_Bai2 {
         }
     }
 
-    public static int menu() {
+    public static int menu(){
         Scanner scanner = new Scanner(System.in);
         System.out.println("-------- MENU --------");
         System.out.println("1. Nhập danh sách họ và tên");
@@ -52,13 +51,23 @@ public class Lab5_Bai2 {
 
     public static void nhap(ArrayList<String> ls, Scanner sc) {
         System.out.println("----- LỰA CHỌN 1: NHẬP DANH SÁCH HỌ TÊN -----");
+        int i = 1;
         while (true){
-            System.out.print("Nhập họ và tên (Nhập 'N' để kết thúc): ");
+            System.out.print("Nhập họ và tên của người thứ " + i + ": ");
             String hoten = sc.nextLine();
-            if(hoten.equalsIgnoreCase("N")){
+            ls.add(hoten);
+            i++;
+            String confirm;
+            do{
+                System.out.print("Bạn có muốn nhập tiếp không? (Y/N): ");
+                confirm = sc.nextLine().toUpperCase();
+                if(!(confirm.equalsIgnoreCase("Y") || confirm.equalsIgnoreCase("N"))){
+                    System.out.println("Lựa chọn không hợp lệ. Vui lòng nhập 'Y' hoặc 'N'");
+                }
+            }while (!(confirm.equalsIgnoreCase("Y") || confirm.equalsIgnoreCase("N")));
+            if(confirm.equalsIgnoreCase("N")){
                 break;
             }
-            ls.add(hoten);
         }
         System.out.println("----- HOÀN THÀNH NHẬP DANH SÁCH -----");
     }

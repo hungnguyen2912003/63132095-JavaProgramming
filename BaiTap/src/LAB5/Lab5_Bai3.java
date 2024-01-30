@@ -1,6 +1,5 @@
 package LAB5;
 
-import javax.xml.namespace.QName;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -42,6 +41,10 @@ public class Lab5_Bai3 {
                 case 4:
                     tinhtrungbinh(ls);
                     break;
+                case 5:
+                    System.out.println("Kết thúc chương trình.");
+                    System.exit(0);
+                    break;
                 default:
                     System.out.println("Lựa chọn không hợp lệ. Vui lòng chọn lại.");
             }
@@ -55,6 +58,7 @@ public class Lab5_Bai3 {
         System.out.println("2. Sắp xếp giảm dần theo giá và xuất ra màn hình");
         System.out.println("3. Tìm và xóa sản phẩm theo tên nhập từ bàn phím");
         System.out.println("4. Xuất giá trung bình của các sản phẩm");
+        System.out.println("5. Kết thúc");
         System.out.println("------ END ------");
         System.out.print("Nhập lựa chọn: ");
         return scanner.nextInt();

@@ -25,7 +25,7 @@
 ###
 
 <br clear="both">
-
+<br>
 <div align="center">
   <img height="250" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif"  />
 </div>

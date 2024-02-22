@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Tại đây lưu trữ:<br>📚 Các bài tập tự luyện.<br>📚 Các bài tập thực hành.<br>📚 Các dự án cho kỳ thi học phần.<br>Được viết bằng ngôn ngữ lập trình Java của tôi.</h3>
+<h3 align="left">Tại đây tôi lưu trữ:<br>📚 Các bài tập tự luyện.<br>📚 Các bài tập thực hành.<br>📚 Các dự án cho kỳ thi học phần.<br>Được viết bằng ngôn ngữ lập trình Java.</h3>
 
 ###
 

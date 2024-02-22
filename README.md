@@ -16,13 +16,9 @@
 
 ###
 
-<br clear="both">
-
 <p align="center">Contact me at the social networks below</p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.facebook.com/bocutiee" target="_blank">
@@ -38,9 +34,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/hungnguyen2912003/hungnguyen2912003/output/snake.svg" alt="Snake animation" />
 
 ###

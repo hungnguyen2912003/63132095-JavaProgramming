@@ -40,3 +40,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/hungnguyen2912003/hungnguyen2912003/output/snake.svg" alt="Snake animation" />
+
+###

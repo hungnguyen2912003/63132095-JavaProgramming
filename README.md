@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">Ngôn ngữ lập trình Java<br>Java Programming Language</h2>
+<h2 align="center">Lập trình Java<br>Java Programming</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Tại đây tôi lưu trữ về:<br>📚 Các bài tập tự luyện.<br>📚 Các bài tập thực hành.<br>📚 Các dự án cho kỳ thi học phần.<br>Được viết bằng ngôn ngữ lập trình Java.</h3>
+<h3 align="left">Tại đây tôi lưu trữ liên quan đến lập trình Java về:<br>📚 Các bài tập tự luyện.<br>📚 Các bài tập thực hành.<br>📚 Các dự án cho kỳ thi học phần.<br>Được viết bằng ngôn ngữ lập trình Java.</h3>
 
 ###
 

@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Tại đây tôi lưu trữ:<br>📚 Các bài tập tự luyện.<br>📚 Các bài tập thực hành.<br>📚 Các dự án cho kỳ thi học phần.<br>Được viết bằng ngôn ngữ lập trình Java.</h3>
+<h3 align="left">Tại đây tôi lưu trữ về:<br>📚 Các bài tập tự luyện.<br>📚 Các bài tập thực hành.<br>📚 Các dự án cho kỳ thi học phần.<br>Được viết bằng ngôn ngữ lập trình Java.</h3>
 
 ###
 
@@ -32,7 +32,9 @@
 
 ###
 
-<h3 align="center">Contact me at the social networks below 👇</h3>
+<h3 align="center">Contact me at the social networks below</h3>
+
+<h3 align="center">👇👇👇</h3>
 
 ###
 

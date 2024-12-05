@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\63132095-JavaProgramming"/>
 			<item value="E:\Mobile Programming\63132095-AndroidProgramming\Cau1_AppBMI"/>
 			<item value="E:\Mobile Programming\63132095-JavaProgramming\THplus_Bai18_Components"/>
 			<item value="E:\Mobile Programming\63132095-JavaProgramming\THplus_Bai16_Border"/>
